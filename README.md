@@ -1,6 +1,6 @@
 # Platform-Proposal
 
-A quick visualization of 2 potential designs for a router platform
+A quick visualization with a first person view of 2 potential designs for a router platform
 
 ## License
 
